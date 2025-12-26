@@ -60,7 +60,7 @@ Technical implementation details and source code are not publicly available.
 <h2>📷 Preview</h2>
 <div align="left">
 <p align="center">
-  <img src="assets/image_1.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;">
-  <img src="assets/image_2.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;">
-  <img src="assets/image_3.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover;">
+  <img src="assets/image_1.png" width="180" height="180" style="border-radius:50%; object-fit:cover;">
+  <img src="assets/image_2.png" width="180" height="180" style="border-radius:50%; object-fit:cover;">
+  <img src="assets/image_3.png" width="180" height="180" style="border-radius:50%; object-fit:cover;">
 </p>
